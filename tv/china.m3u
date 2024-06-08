@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",[BD]广东珠江
+http://14.154.191.103:4022/udp/239.77.0.1:5146
 #EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png",[BD]cctv1@@19[ipv6]
 https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 #EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png",[BD]cctv1[ipv6]
